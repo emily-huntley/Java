@@ -1,0 +1,6 @@
+Peter,Male,S001,Senior
+Michael,Male,S002,Senior
+Gareth,Male,S003,Senior
+Lily,Female,S004,Senior
+Amanda,Female,S005,Senior
+Penny,Female,S006,Senior

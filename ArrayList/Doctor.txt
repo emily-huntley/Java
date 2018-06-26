@@ -1,0 +1,6 @@
+David,Male,D001,Doctor
+Paul,Male,D002,Doctor
+Carl,Male,D003,Doctor
+Lily,Female,D004,Doctor
+Claire,Female,D005,Doctor
+Marta,Female,D006,Doctor
